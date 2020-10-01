@@ -27,35 +27,15 @@ The statistical analyses were completed using IBM SPSS Statistics v22. To determ
 
 ### Results and Conclusion
 
-The annual elevation surveys show that 37% of the deposition occurring after managed realignment was in the first year. They were also able to determine that the mean carbon density in each core that was taken did not vary much over the marsh, regardless of the length or depth of the core, as seen in Figure 1. There is no correlation between the depth at which the sediment core was taken and the carbon density. Independent t-tests also determined that there are no significant differences between the carbon density in cores collected in vegetated versus non-vegetated areas or in samples collected at 0-30 cm depth or from >30 cm depth. The carbon density was mostly the same across the marsh surface, so the depth of the sediment was the major factor to determine how much carbon would be located in one area. 
+The annual elevation surveys show that 37% of the deposition occurring after managed realignment was in the first year. They were also able to determine that the mean carbon density in each core that was taken did not vary much over the marsh, regardless of the length or depth of the core. There is no correlation between the depth at which the sediment core was taken and the carbon density. Independent t-tests also determined that there are no significant differences between the carbon density in cores collected in vegetated versus non-vegetated areas or in samples collected at 0-30 cm depth or from >30 cm depth. The carbon density was mostly the same across the marsh surface, so the depth of the sediment was the major factor to determine how much carbon would be located in one area, as can be seen in Figure 1. 
 
 The data shows that over the 6 years of monitoring, most of the accumulated carbon comes from sediment deposition, brought in by regular tides. As this newly restored marsh matures, it is likely that the high rates of carbon accumulation will decrease, and that the rates lower and become more similar to the other mature marshes in the area. It was determined that although the presence of vegetation does not seem to have any direct effect on increasing the density of carbon in the soil, vegetation does not effectively trap sediment and therefore increases carbon storage through the accumulation of sediment.
 
 This study determined that carbon storage and sediment deposition can occur very quickly in the Bay of Fundy after managed realignment. It also shows that the rates of carbon burial in new, recovering marshes are much higher than mature marshes. 
 
-
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r}
+plot(1:100, 1:100, xlab = "core length (cm)", ylab = "areal carbon storage (g C cm-3)", type = "l")
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
