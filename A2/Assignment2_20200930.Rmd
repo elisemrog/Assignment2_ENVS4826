@@ -37,5 +37,5 @@ This study determined that carbon storage and sediment deposition can occur very
 plot(1:100, 1:100, xlab = "core length (cm)", ylab = "areal carbon storage (g C cm-3)", type = "l")
 ```
 
-
+Figure 1. Areal C storage vs. core length in a recovering salt marsh.
 
