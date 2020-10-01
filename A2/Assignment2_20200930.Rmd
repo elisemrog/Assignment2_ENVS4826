@@ -12,8 +12,18 @@ Wollenberg, J.T., Ollerhead, J., Chmura, G.L. (2018). Rapid carbon accumulation 
 # Introduction
 
 Salt marshes are known for their ability to store carbon. The carbon stored in these types of ecosystems is called "blue carbon". Plants on the salt marsh have the ability to add to the carbon that is already stored within the marsh. The allochthonous carbon is present due to consistent tidal flooding. Salt marsh soils can store more organic carbon at a very fast rate compared to forest and agricultural soils. Salt marshes are a very valuable resource. 
+
 In the past, dyking has caused a great loss of salt marshes and the organic carbon they have the ability to store. This is why restoring salt marshes can help lower the concentrations of atmospheric CO2. As the threat of climate change and sea level rise continues to grow, policy makers are starting to turn away from hard infrastructure as coastal protection and pay more attention to managed realignment (MR). MR allows for the regrowth of intertidal ecosystems such as salt marshes. 
-In Eastern Canada, very few studies have tried to determine the rates of carbon accumulation in recovering marshes on a short time scale. In this study, two dyke breaches were performed and the rates of carbon storage and sediment accumulation in the newly recovering marsh were observed. 
+
+In Eastern Canada, very few studies have tried to determine the rates of carbon accumulation in recovering marshes on a short time scale. In this study, two dyke breaches were performed and the rates of carbon storage and sediment accumulation in the newly recovering marsh were observed.
+
+## Methods
+
+To perform this study, one section of the Aulac dykelands in the Bay of Fundy, was breached. The restoration site is made up of two marsh cells, with a tidal gate separating them. Cell A is larger than cell B, and cell B is divided by a channel. In 2012, salt marsh cordgrass was first observed growing in both cells. When it was time to sample during the summer of 2016, salt marsh cordgrass had grown across the restored marsh, but there was still some exposed mud. Most of cell A was completely covered, (there were minimal areas of bare mud). The northern part of cell B was not vegetated whereas the southern part of the cell is almost completely covered. 
+
+To complete this study successfully, the elevation of the ground in each cell was measured before the dyke was breached in 2010. After the breach, elevations were measured annually at 50 different locations on the restoring marsh. Sediment deposition was estimated by determining the differences in elevation from one year to the next. Sediment samples were taken using corers, which were to be analyzed for carbon content, by using a loss on ignition method (LOI). The LOI method consists of weighing the sediment sample, then burning it for 1 hour at 350  ̊C, and then for 4 hours at 550 ̊, then weighing it again to determin the difference in weight. This will indicate the organic matter content, which can be converted to the carbon content by using the following equation: [Organic C fraction = 0.40(LOI fraction) + (0.025 LOI fraction)]. 
+
+The statistical analyses were completed using IBM SPSS Statistics v22. To determine the differences in sediment carbon density between areas with and without vegetation, independent t-tests were used.   
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
