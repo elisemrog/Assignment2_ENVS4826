@@ -9,6 +9,12 @@ Assignment 2, Élise Rogers
 
 Wollenberg, J.T., Ollerhead, J., Chmura, G.L. (2018). Rapid carbon accumulation following managed realignment on the Bay of Fundy. _PLoS ONE, 13_(3). DOI: https://doi.org/10.1371/ journal.pone.0193930
 
+# Introduction
+
+Salt marshes are known for their ability to store carbon. The carbon stored in these types of ecosystems is called "blue carbon". Plants on the salt marsh have the ability to add to the carbon that is already stored within the marsh. The allochthonous carbon is present due to consistent tidal flooding. Salt marsh soils can store more organic carbon at a very fast rate compared to forest and agricultural soils. Salt marshes are a very valuable resource. 
+In the past, dyking has caused a great loss of salt marshes and the organic carbon they have the ability to store. This is why restoring salt marshes can help lower the concentrations of atmospheric CO2. As the threat of climate change and sea level rise continues to grow, policy makers are starting to turn away from hard infrastructure as coastal protection and pay more attention to managed realignment (MR). MR allows for the regrowth of intertidal ecosystems such as salt marshes. 
+In Eastern Canada, very few studies have tried to determine the rates of carbon accumulation in recovering marshes on a short time scale. In this study, two dyke breaches were performed and the rates of carbon storage and sediment accumulation in the newly recovering marsh were observed. 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
